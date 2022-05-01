@@ -1,0 +1,1 @@
+wines = (red, white, green, sparkling)
