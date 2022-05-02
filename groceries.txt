@@ -1,1 +1,1 @@
-groceries = (banana, apple, butter, eggs, toillet paper,eggs2)
+groceries = (banana, apple, butter, eggs, toillet paper, water)
